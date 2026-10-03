@@ -12,4 +12,4 @@ SHA-256: `b0622477bc784b45b38038188771fd12290e6e6791277e7c21298a1770c44026`
 
 Download the APK on your Android device and follow Android's install prompt. Only install the file linked from this repository. If your device requests permission to install apps from your browser or file manager, review that permission before proceeding.
 
-Send questions and test feedback to **Anesu Ndava** at [anesuprince.ndava@squirrellabs.work](mailto:anesuprince.ndava@squirrellabs.work?subject=QuoteFlow%20test%20feedback). You will be speaking with Anesu directly. For feedback, include your device model, Android version, the steps you took, and a screenshot of any error. Do not include passwords, PINs, or real customer information in feedback.
+Send questions and test feedback to **Anesu Ndava** at [anesuprince.ndava@squirrellabs.work](mailto:anesuprince.ndava@squirrellabs.work?subject=QuoteFlow%20test%20feedback). For feedback, include your device model, Android version, the steps you took, and a screenshot of any error. Do not include passwords, PINs, or real customer information in feedback.
